@@ -2,4 +2,4 @@
 Sample repo for git tutorials
 
 
-Author - Shakthi Aditya
+Author - Shakthi(Aditya Manivannan)
